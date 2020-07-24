@@ -28,6 +28,7 @@ ELECTRONIC ASPECTS OF THE DESIGN<br>
 5. L293d motor controller
 6. Battery 
 7. Connecting wires and jumpers 
+<br>
 - Total two dc motors were used. One to grab the rope with the help of an encoder and the second for climbing the rope.
 - Two ultrasonic distance sensors were used to measure the distance of the bot from the floor and the top end of the rope. 
 - dc motors were powered through Li-Po 12V dc battery.
