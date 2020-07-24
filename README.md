@@ -19,7 +19,6 @@ The design consists of a DC motor which is connected to three spur gear asssembl
 the wheels rolls on the surface of the rope which is powered by a DC motor (motor should provide high torque and power). In presence of sufficient friction between the wheels and the rope . The robot tranveses the rope . The wheel should offer sufficient friction to support the robot in the vertical position . <br>
 The other way to arrange the wheels is in a zig-zag pattern which increases the area of contact which in turn increases the friction.
 ## **Electronic aspect**
-ELECTRONIC ASPECTS OF THE DESIGN<br>
 - Electronic Components used
 1. Arduino Uno 
 2. dc motors 
@@ -28,7 +27,7 @@ ELECTRONIC ASPECTS OF THE DESIGN<br>
 5. L293d motor controller
 6. Battery 
 7. Connecting wires and jumpers 
-<br>
+
 - Total two dc motors were used. One to grab the rope with the help of an encoder and the second for climbing the rope.
 - Two ultrasonic distance sensors were used to measure the distance of the bot from the floor and the top end of the rope. 
 - dc motors were powered through Li-Po 12V dc battery.
