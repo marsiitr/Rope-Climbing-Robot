@@ -20,13 +20,13 @@ the wheels rolls on the surface of the rope which is powered by a DC motor (moto
 The other way to arrange the wheels is in a zig-zag pattern which increases the area of contact which in turn increases the friction.
 ## **Electronic aspect**
 - Electronic Components used
-1. Arduino Uno 
-2. dc motors 
-3. Ultrasonic distance sensors 
-4. Encoder 
-5. L293d motor controller
-6. Battery 
-7. Connecting wires and jumpers 
+ 1. Arduino Uno 
+ 2. dc motors 
+ 3. Ultrasonic distance sensors 
+ 4. Encoder 
+ 5. L293d motor controller
+ 6. Battery 
+ 7. Connecting wires and jumpers 
 
 - Total two dc motors were used. One to grab the rope with the help of an encoder and the second for climbing the rope.
 - Two ultrasonic distance sensors were used to measure the distance of the bot from the floor and the top end of the rope. 
