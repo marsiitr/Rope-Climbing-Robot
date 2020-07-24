@@ -30,8 +30,8 @@ There was a need of rope climbing robot which uses a single rope and can reach e
 -----
 <!-- apllications-->
 ## **Limitations**
-----
-<!--limisgdh-->
+- The rope can not climb horizontal ropes or ropes at some angel
+- The bot can not rope having some obstacles like knots or bend
 ## **Future improvements**
 -----
 <!-- ft-->
