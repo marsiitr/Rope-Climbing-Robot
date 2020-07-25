@@ -40,7 +40,7 @@ The other way to arrange the wheels is in a zig-zag pattern which increases the 
 |||
 
 ## **Applications**
------
+
 Robot is planned to serve the following tasks:
 
 - It can be used to carry weights or to drop weights from some height.
