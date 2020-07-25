@@ -24,7 +24,7 @@ The other way to arrange the wheels is in a zig-zag pattern which increases the 
  2. dc motors 
  3. Ultrasonic distance sensors 
  4. Encoder 
- 5. L293n motor controller
+ 5. L298n motor controller
  6. Battery 
  7. Connecting wires and jumpers 
 
