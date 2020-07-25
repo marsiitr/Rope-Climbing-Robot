@@ -17,7 +17,9 @@ There was a need of rope climbing robot which uses a single rope and can reach e
 After gripping the rope firmly, the bot has to climb the rope . The basic pprincipal used along the rope is rolling. <br>
 The design consists of a DC motor which is connected to three spur gear asssembly . The end gears are connected to each wheel . The design consists of two wheel pairs on either side of the rope. <br> 
 the wheels rolls on the surface of the rope which is powered by a DC motor (motor should provide high torque and power). In presence of sufficient friction between the wheels and the rope . The robot tranveses the rope . The wheel should offer sufficient friction to support the robot in the vertical position . <br>
-The other way to arrange the wheels is in a zig-zag pattern which increases the area of contact which in turn increases the friction.
+The other way to arrange the wheels is in a zig-zag pattern which increases the area of contact which in turn increases the friction.<br>
+Let the radius of the wheel be r and θ is the angle of contact and h is the rope thickness. The surface area S in contact with the wheel is given as <br>
+<blockquote>S = (2πrhθ)/360 </blockqoute>
 ## **Electronic aspect**
 - Electronic Components used
  1. Arduino Uno 
