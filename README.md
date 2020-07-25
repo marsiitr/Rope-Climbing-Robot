@@ -41,6 +41,15 @@ The other way to arrange the wheels is in a zig-zag pattern which increases the 
 
 ## **Applications**
 -----
+Robot is planned to serve the following tasks:
+
+- It can be used to carry weights or to drop weights from some height.
+
+- When equipped with camera, the robot can be used for surveillence
+
+- When equipped with cleaners, it can be used to clean glasses of windows or walls.
+
+- Robot can be used to take pictures or to make videos from different heights.
 <!-- apllications-->
 ## **Limitations**
 - The rope can not climb horizontal ropes or ropes at some angel
