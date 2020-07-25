@@ -20,7 +20,7 @@ the wheels rolls on the surface of the rope which is powered by a DC motor (moto
 The other way to arrange the wheels is in a zig-zag pattern which increases the area of contact which in turn increases the friction.<br>
 Let the radius of the wheel be r and θ is the angle of contact and h is the rope thickness. The surface area S in contact with the wheel is given as <br>
 S = (2πrhθ)/360 
-<hr>
+
 ## **Electronic aspect**
 - Electronic Components used
  1. Arduino Uno 
