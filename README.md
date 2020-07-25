@@ -58,8 +58,10 @@ Robot is planned to serve the following tasks:
 - The rope can not climb horizontal ropes or ropes at some angel
 - The bot can not rope having some obstacles like knots or bend
 ## **Future improvements**
------
-<!-- ft-->
+1. The load carrying capacity can be improved by using stronger motors and parts.
+2. Image detection software will be incorporated with the help of a camera , so that it can detect a rope on its own and climbs it.
+3. Modification in the design will be made so that it can measure its diameter of the rope without prefeding the data into the encoder.
+4. Pneaumatics can be introduced in the the model to improve the gripping and climbing speed.
 ## **Team Member**
 -----
 <!--tm-->
