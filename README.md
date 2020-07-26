@@ -71,11 +71,11 @@ Robot is planned to serve the following tasks:
 4. Pneaumatics can be introduced in the the model to improve the gripping and climbing speed.
 ## **Team Member**
 - [Aditya Tidke](https://github.com/adityatidke)
-- Parul Chaudhary
-- Vinu Sebastian Thomas
-- Tanisha gupta
+- [Anjali Rana](https://github.com/anu-cn)
+- [Parul Chaudhary](https://github.com/parul253)
+- [Tanisha gupta](https://github.com/guddu-gupta)
 - [Vansh Goyal](https://github.com/vanshgoyal)
-- Vinu Sebastian
+- [Vinu Sebastian](https://github.com/vinusebastian265)
 ## **Mentor**
 - Avdesh Ranwa
 - Gautam Jha 
