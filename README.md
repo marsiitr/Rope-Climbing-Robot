@@ -14,6 +14,13 @@ There was a need of rope climbing robot which uses a single rope and can reach e
 
 <!-- motivation-->
 ## **Mechanical aspect**
+
+##### Encoder motor assembly #####
+To grip the rope , sliding roller assembly has  to ascend on a lead screw , for that a spur gear is attached to the lead screw on the rear side . An encoder and motor are also attached sideways such that the lead screw attached to the spur gear simultaneously runs the spur gear attached to the encoder and the motor. <br>
+For the working of the assembly , when the motor rotates , the spur gear rotates the lead screw which in turn rotates the encoder shaft through the trail of gears . The information of number of the rotations which the motor has to perform is already calculated and fitted to encoder . Thus we can grip the rope. 
+##### Slider assembly #####
+To prevent the sliding roller assembly to deviate from its path in a rotatory motion it is supported with a slider assembly. The slider is created with a shaft and a rectangular box which can slide on it . It is connected to "SRE" by a L hinge. <br>
+The slider also creates a second support for the lead screw . Otherwise the lead screw will deviate from its position. 
 ##### Motor wheel assembly #####
 After gripping the rope firmly, the bot has to climb the rope . The basic pprincipal used along the rope is rolling. <br>
 The design consists of a DC motor which is connected to three spur gear asssembly . The end gears are connected to each wheel . The design consists of two wheel pairs on either side of the rope. <br> 
@@ -21,12 +28,6 @@ the wheels rolls on the surface of the rope which is powered by a DC motor (moto
 The other way to arrange the wheels is in a zig-zag pattern which increases the area of contact which in turn increases the friction.<br>
 Let the radius of the wheel be r and θ is the angle of contact and h is the rope thickness. The surface area S in contact with the wheel is given as <br>
 S = (2πrhθ)/360 
-##### Encoder motor assembly #####
-To grip the rope , sliding roller assembly has  to ascend on a lead screw , for that a spur gear is attached to the lead screw on the rear side . An encoder and motor are also attached sideways such that the lead screw attached to the spur gear simultaneously runs the spur gear attached to the encoder and the motor. <br>
-For the working of the assembly , when the motor rotates , the spur gear rotates the lead screw which in turn rotates the encoder shaft through the trail of gears . The information of number of the rotations which the motor has to perform is already calculated and fitted to encoder . Thus we can grip the rope. 
-##### Slider assembly #####
-To prevent the sliding roller assembly to deviate from its path in a rotatory motion it is supported with a slider assembly. The slider is created with a shaft and a rectangular box which can slide on it . It is connected to "SRE" by a L hinge. <br>
-The slider also creates a second support for the lead screw . Otherwise the lead screw will deviate from its position. 
 
 ## **Electronic aspect**
 - Electronic Components used
