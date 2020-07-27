@@ -66,7 +66,7 @@ Let the radius of the wheel be r and θ is the angle of contact and h is the rop
 |Lead screw|1|600|
 |Materials for body|1|1230|
 |Manufacturing|1|600|
-|*total*||4595|
+|*total*||4775|
 
 
 ## **Applications**
