@@ -104,7 +104,7 @@ Robot is planned to serve the following tasks:
 - [Vansh Goyal](https://github.com/vanshgoyal)
 - [Vinu Sebastian](https://github.com/vinusebastian265)
 ## **Mentor**
-- Avdesh Ranwa
+- [Avdesh Ranwa](https://github.com/avdeshranwa)
 - Gautam Jha 
 ## **Refrences** ##
 https://www.arrow.com/en/research-and-events/articles/ultrasonic-sensors-how-they-work-and-how-to-use-them-with-arduino <br>
