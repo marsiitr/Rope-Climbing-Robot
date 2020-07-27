@@ -16,8 +16,8 @@ There was a need of rope climbing robot which uses a single rope and can reach e
 ## **Mechanical aspect**
 ##### Sliding roller #####
 In rope climbing robot two aspects are especially important :
-> Grip on the rope<br>
-> Smoothness while movement
+> - Grip on the rope<br>
+> - Smoothness while movement
 
 These two characteristics are important to carry a weight with a robot and easily maintain a overall stability of the robot . The design presented here for rope climmbing is a wheel based system since they are highly and easy to build. 
 ##### Slider wheel assembly #####
