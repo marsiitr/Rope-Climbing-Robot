@@ -14,8 +14,6 @@ There was a need of rope climbing robot which uses a single rope and can reach e
 
 <!-- motivation-->
 ## **Mechanical aspect**
-![flowchart](https://github.com/adityatidke/Rope-Climbing-Robot/blob/master/flowchart.jpg)
-
 In rope climbing robot two aspects are especially important grip on the rope and smoothness while movement . <br>
 These two characteristics are important to carry a weight with a robot and easily maintain a overall stability of the robot . The design presented here for rope climmbing is a wheel based system since they are highly and easy to build. 
 ##### Sliding roller #####
@@ -53,6 +51,10 @@ Let the radius of the wheel be r and θ is the angle of contact and h is the rop
 - Two ultrasonic distance sensors were used to measure the distance of the bot from the floor and the top end of the rope. 
 - dc motors were powered through Li-Po 12V dc battery.
 ![circuit](https://github.com/adityatidke/Rope-Climbing-Robot/blob/master/images%20and%20videos/images/Circuit.png)
+
+## **Workflow** ##
+![flowchart](https://github.com/adityatidke/Rope-Climbing-Robot/blob/master/flowchart.jpg)
+
 ## **Cost structure**
 --------
 <!-- cost structure-->
