@@ -53,6 +53,8 @@ Let the radius of the wheel be r and θ is the angle of contact and h is the rop
 ![circuit](https://github.com/adityatidke/Rope-Climbing-Robot/blob/master/images%20and%20videos/images/Circuit.png)
 
 ## **Workflow** ##
+--------------
+
 ![flowchart](https://github.com/adityatidke/Rope-Climbing-Robot/blob/master/flowchart.jpg)
 
 ## **Cost structure**
