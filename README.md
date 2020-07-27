@@ -58,6 +58,9 @@ Let the radius of the wheel be r and θ is the angle of contact and h is the rop
 |Motor controller|1|160|
 |Ultrasonic sensor|2|360|
 |DC motor|2|120|
+|Lead screw|1|600|
+|Materials for body|1|1230|
+|Manufacturing|1|600|
 
 
 ## **Applications**
