@@ -99,5 +99,7 @@ Robot is planned to serve the following tasks:
 ## **Mentor**
 - Avdesh Ranwa
 - Gautam Jha 
-
+## **Refrences** ##
+https://www.arrow.com/en/research-and-events/articles/ultrasonic-sensors-how-they-work-and-how-to-use-them-with-arduino <br>
+https://www.thomasnet.com/articles/machinery-tools-supplies/pneumatic-actuators/
 
