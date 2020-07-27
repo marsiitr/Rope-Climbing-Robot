@@ -47,6 +47,7 @@ Let the radius of the wheel be r and θ is the angle of contact and h is the rop
 - Total two dc motors were used. One to grab the rope with the help of an encoder and the second for climbing the rope.
 - Two ultrasonic distance sensors were used to measure the distance of the bot from the floor and the top end of the rope. 
 - dc motors were powered through Li-Po 12V dc battery.
+![circuit](https://github.com/adityatidke/Rope-Climbing-Robot/blob/master/images%20and%20videos/images/Circuit.png)
 ## **Cost structure**
 --------
 <!-- cost structure-->
