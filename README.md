@@ -18,6 +18,7 @@ There was a need of rope climbing robot which uses a single rope and can reach e
 In rope climbing robot two
 > Grip on the rope
 > Smoothness while movement
+
 These two characteristics are important to carry a weight with a robot and easily maintain a overall stability of the robot . The design presented here for rope climmbing is a wheel based system since they are highly and easy to build. 
 ##### Slider wheel assembly #####
 This is a common and serves in both gripping mechanism and climbing mechanism . The assembly consists of two wheels attached to a rectangular metal sheet which is attached to the lead screw nut .<br>
