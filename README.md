@@ -55,7 +55,7 @@ Let the radius of the wheel be r and θ is the angle of contact and h is the rop
 | materials|quantity|cost|
 |:-----|:-----|:-----|
 |Arduino UNO|1|425|
-|Lipo |1|1100|
+|Lipo battery|1|1100|
 |Motor controller|1|160|
 |Ultrasonic sensor|2|360|
 |DC motor|2|120|
