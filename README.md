@@ -62,7 +62,7 @@ Let the radius of the wheel be r and θ is the angle of contact and h is the rop
 |Lipo battery|1|1100|
 |Motor controller|1|160|
 |Ultrasonic sensor|2|360|
-|DC motor|2|120|
+|DC motor|2|300|
 |Lead screw|1|600|
 |Materials for body|1|1230|
 |Manufacturing|1|600|
