@@ -47,22 +47,24 @@ The wheels rolls on the surface of the rope which is powered by a DC motor (moto
 The other way to arrange the wheels is in a zig-zag pattern which increases the area of contact which in turn increases the friction.<br>
 Let the radius of the wheel be r and θ is the angle of contact and h is the rope thickness. The surface area S in contact with the wheel is given as <br>
  S = (2πrhθ)/360
+ </p>
 
 <h2>Electronic aspect</h2>
-<ul>
-<li>Electronic Components used</li>
-  <ol>
- <li>Arduino Uno</li>
- <li>dc motors</li>
- <li>Ultrasonic distance sensors</li>
- <li>Encoder</li>
- <li>L298n motor controller</li>
- <li>Battery</li>
- <li>Connecting wires and jumpers</li>
-  </ol>
-<li>Total two dc motors were used. One to grab the rope with the help of an encoder and the second for climbing the rope.</li>
-<li>Two ultrasonic distance sensors were used to measure the distance of the bot from the floor and the top end of the rope.</li>
-<li>dc motors were powered through Li-Po 12V dc battery.</li>
+
+-Electronic Components used
+  
+ 1. Arduino Uno
+ 2. dc motors
+ 3. Ultrasonic distance sensors
+ 4. Encoder
+ 5. L298n motor controller
+ 6. Battery
+ 7. Connecting wires and jumpers
+ 
+- Total two dc motors were used. One to grab the rope with the help of an encoder and the second for climbing the rope.</li>
+- Two ultrasonic distance sensors were used to measure the distance of the bot from the floor and the top end of the rope.</li>
+- dc motors were powered through Li-Po 12V dc battery.</li>
+
 <img src="https://github.com/adityatidke/Rope-Climbing-Robot/blob/master/Images%20and%20Videos/Images/Circuit.png">
 
 <h2>Workflow</h2>
@@ -71,7 +73,7 @@ Let the radius of the wheel be r and θ is the angle of contact and h is the rop
 <img src="https://github.com/adityatidke/Rope-Climbing-Robot/blob/master/Images%20and%20Videos/Images/flowchart.jpg">
 
 <h2>Cost structure</h2>
--
+
 <!-- cost structure-->
 
 | materials|quantity|cost|
@@ -86,7 +88,7 @@ Let the radius of the wheel be r and θ is the angle of contact and h is the rop
 |Manufacturing|1|600|
 |*total*||4775|
 
-
+<p align="justify">
 <h2>Applications</h2>
 
 Robot is planned to serve the following tasks:
