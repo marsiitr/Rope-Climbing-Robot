@@ -3,7 +3,7 @@ Srishti 2020
 
 
 <p align="justify">
-<h1>Abstract</h1>
+<h2>Abstract</h2>
 This Rope climbing bot is used to climb ropes in an easy and efficient manner to reduce manual labour.Motorised rollers are used for climbing and a leadscrew is used for the gripping.
 </p>
 <p align="centre">
@@ -21,10 +21,12 @@ There was a need of rope climbing robot which uses a single rope and can reach e
 In rope climbing robot two aspects are especially important grip on the rope and smoothness while movement . <br>
 These two characteristics are important to carry a weight with a robot and easily maintain a overall stability of the robot . The design presented here for rope climmbing is a wheel based system since they are highly and easy to build.
 </p>
-##### Sliding roller #####
-![roller](https://github.com/adityatidke/Rope-Climbing-Robot/blob/master/images%20and%20videos/images/SLIDING%20ROLLER%20ASSEMBLY.JPG)<br>
+<p align="justify">
+<h2>Sliding roller</h2>
+![roller](https://github.com/adityatidke/Rope-Climbing-Robot/blob/master/mechanical%20design/assembly%20images/SLIDING%20ROLLER%20ASSEMBLY.JPG)<br>
 This is a common and serves in both gripping mechanism and climbing mechanism . The assembly consists of two wheels attached to a rectangular metal sheet which is attached to the lead screw nut .<br>
 The wheels are connected to the sheet with 3-D printed supports , bearings and shafts such that they are free to rotate about the shaft .
+</p>
 ##### Encoder motor assembly #####
 ![encoder](https://github.com/adityatidke/Rope-Climbing-Robot/blob/master/images%20and%20videos/images/Motor%20Encoder%20Assembly.JPG)<br>
 To grip the rope , sliding roller assembly has  to ascend on a lead screw , for that a spur gear is attached to the lead screw on the rear side . An encoder and motor are also attached sideways such that the lead screw attached to the spur gear simultaneously runs the spur gear attached to the encoder and the motor. <br>
