@@ -47,10 +47,10 @@ The wheels rolls on the surface of the rope which is powered by a DC motor (moto
 The other way to arrange the wheels is in a zig-zag pattern which increases the area of contact which in turn increases the friction.<br>
 Let the radius of the wheel be r and θ is the angle of contact and h is the rope thickness. The surface area S in contact with the wheel is given as <br>
  <blockquote>S = (2πrhθ)/360</blockquote>
- </p>
+
 
 <h2>Electronic aspect</h2>
-
+ </p>
 - Electronic Components used
   
  1. Arduino Uno
@@ -66,14 +66,14 @@ Let the radius of the wheel be r and θ is the angle of contact and h is the rop
 - dc motors were powered through Li-Po 12V dc battery.</li>
 
 <img src="https://github.com/adityatidke/Rope-Climbing-Robot/blob/master/Images%20and%20Videos/Images/Circuit.png">
-
+<p align="justify">
 <h2>Workflow</h2>
-
+</p>
 
 <img src="https://github.com/adityatidke/Rope-Climbing-Robot/blob/master/Images%20and%20Videos/Images/flowchart.jpg">
-
+<p align="justify">
 <h2>Cost structure</h2>
-
+</p>
 <!-- cost structure-->
 
 | materials|quantity|cost|
@@ -87,12 +87,12 @@ Let the radius of the wheel be r and θ is the angle of contact and h is the rop
 |Materials for body|1|1230|
 |Manufacturing|1|600|
 |*total*||4775|
-</p>
 
-<h2>Applications</h2>
 <p align="justify">
-Robot is planned to serve the following tasks:
+<h2>Applications</h2>
 
+Robot is planned to serve the following tasks:
+</p>
 - It can be used to carry weights or to drop weights from some height.
 
 - When equipped with camera, the robot can be used for surveillence.
@@ -108,26 +108,30 @@ Robot is planned to serve the following tasks:
 
 
 - The bot cannot traverse rope having some obstacles like knots or bend.
+<p align="justify">
 <h2>Future improvements</h2>
-
+</P>
 - The load carrying capacity can be improved by using stronger motors and parts.
 - Image detection software can be incorporated with the help of a camera , so that it can detect a rope on its own and climb it.
 - Modification in the design can be made so that it can measure its diameter of the rope without prefeding the data into the encoder.
 - Pneaumatics can be introduced in the the model to improve the gripping and climbing speed.
-
+<p align="justify">
 <h2>Team Member</h2>
-<li> <a href="https://github.com/adityatidke">Aditya Tidke</a></li>
-<li><a href="https://github.com/anu-cn">Anjali Rana</a></li>
-<li><a href="https://github.com/parul253">Parul Chaudhary</a></li>
-<li><a href="https://github.com/guddu-gupta">Tanisha Gupta</a></li>
-<li><a href="https://github.com/vanshgoyal">Vansh Goyal</a></li>
-<li><a href="https://github.com/vinusebastian265">Vinu Sebastian</a></li>
+</P>
+- <a href="https://github.com/adityatidke">Aditya Tidke</a>
+- <a href="https://github.com/anu-cn">Anjali Rana</a>
+- <a href="https://github.com/parul253">Parul Chaudhary</a>
+- <a href="https://github.com/guddu-gupta">Tanisha Gupta</a>
+- <a href="https://github.com/vanshgoyal">Vansh Goyal</a>
+- <a href="https://github.com/vinusebastian265">Vinu Sebastian</a>
+<p align="justify">
 <h2>Mentor</h2>
-<ul>
-  <li><a href="https://github.com/avdeshranwa">Avdesh Ranwa</a></li>
-<li>Gautam Jha</li>
- </ul>
+</P>
+- <a href="https://github.com/avdeshranwa">Avdesh Ranwa</a>
+- Gautam Jha
+<p align="justify">
 <h2>Refrences</h2>
+</P>
 https://www.arrow.com/en/research-and-events/articles/ultrasonic-sensors-how-they-work-and-how-to-use-them-with-arduino <br>
 https://www.thomasnet.com/articles/machinery-tools-supplies/pneumatic-actuators/<br>
 https://www.instructables.com/circuits/arduino/projects/<br>
