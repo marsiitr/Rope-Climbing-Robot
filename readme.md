@@ -1,5 +1,7 @@
-# Rope-Climbing-Robot
+ <p align="justify">
+ <h1>Rope-Climbing-Robot</h1>
 Srishti 2020
+</p>
 
 
 <p align="justify">
