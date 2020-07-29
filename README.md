@@ -110,15 +110,15 @@ Robot is planned to serve the following tasks:
 3. Modification in the design can be made so that it can measure its diameter of the rope without prefeding the data into the encoder.
 4. Pneaumatics can be introduced in the the model to improve the gripping and climbing speed.
 <h2>Team Member</h2>
-<li> [Aditya Tidke](https://github.com/adityatidke)</li>
-<li>[Anjali Rana](https://github.com/anu-cn)</li>
-<li>[Parul Chaudhary](https://github.com/parul253)</li>
-<li>[Tanisha gupta](https://github.com/guddu-gupta)</li>
-<li>[Vansh Goyal](https://github.com/vanshgoyal)</li>
-<li>[Vinu Sebastian](https://github.com/vinusebastian265)</li>
+<li> <a href="https://github.com/adityatidke">Aditya Tidke</a></li>
+<li><a href="https://github.com/anu-cn">Anjali Rana</a></li>
+<li><a href="https://github.com/parul253">Parul Chaudhary</a></li>
+<li><a href="https://github.com/guddu-gupta">Tanisha Gupta</a></li>
+<li><a href="https://github.com/vanshgoyal">Vansh Goyal</a></li>
+<li><a href="https://github.com/vinusebastian265">Vinu Sebastian</a></li>
 <h2>Mentor</h2>
 <ul>
-<li>[Avdesh Ranwa](https://github.com/avdeshranwa)</li>
+  <li><a href="https://github.com/avdeshranwa">Avdesh Ranwa</a></li>
 <li>Gautam Jha</li>
  </ul>
 <h2>Refrences</h2>
