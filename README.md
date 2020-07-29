@@ -32,7 +32,7 @@ The wheels are connected to the sheet with 3-D printed supports , bearings and s
 <img src="https://github.com/adityatidke/Rope-Climbing-Robot/blob/master/Mechanical%20Design/assembly%20images/Motor%20Encoder%20Assembly.JPG">
 To grip the rope , sliding roller assembly has  to ascend on a lead screw , for that a spur gear is attached to the lead screw on the rear side . An encoder and motor are also attached sideways such that the lead screw attached to the spur gear simultaneously runs the spur gear attached to the encoder and the motor. <br>
 For the working of the assembly , when the motor rotates , the spur gear rotates the lead screw which in turn rotates the encoder shaft through the trail of gears . The information of number of the rotations which the motor has to perform is already calculated and fitted into the encoder . Thus we can grip the rope.
-<h4>Slider assembly</h4> 
+<h4>Slider assembly</h4>
 <img src="https://github.com/adityatidke/Rope-Climbing-Robot/blob/master/Mechanical%20Design/assembly%20images/Slider%20Assembly.JPG">
 To prevent the sliding roller assembly to deviate from its path in a rotatory motion it is supported with a slider assembly. The slider is created with a shaft and a rectangular box which can slide on it . It is connected to "SRE" by a L hinge. <br>
 The slider also creates a second support for the lead screw . Otherwise the lead screw will deviate from its position.
