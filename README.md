@@ -3,7 +3,7 @@ Srishti 2020
 
 
 <p align="justify">
-<h2>Abstract</h2>
+<h1>Abstract</h1>
 This Rope climbing bot is used to climb ropes in an easy and efficient manner to reduce manual labour.Motorised rollers are used for climbing and a leadscrew is used for the gripping.
 </p>
 <p align="centre">
@@ -15,9 +15,11 @@ People from various fields like mining , military , or other often come across s
 There was a need of rope climbing robot which uses a single rope and can reach easily to any desired place in any terrain and most of the robots we come across uses double rope and are difficult to use. Also many day to day households work can be done easily with a rope climbing robot and thus we need a robot which can used in daily lives .     
 
 <!-- motivation-->
-## **Mechanical aspect**
+<p align="justify">
+<h2>Mechanical aspect</h2>
 In rope climbing robot two aspects are especially important grip on the rope and smoothness while movement . <br>
 These two characteristics are important to carry a weight with a robot and easily maintain a overall stability of the robot . The design presented here for rope climmbing is a wheel based system since they are highly and easy to build.
+</p>
 ##### Sliding roller #####
 ![roller](https://github.com/adityatidke/Rope-Climbing-Robot/blob/master/images%20and%20videos/images/SLIDING%20ROLLER%20ASSEMBLY.JPG)<br>
 This is a common and serves in both gripping mechanism and climbing mechanism . The assembly consists of two wheels attached to a rectangular metal sheet which is attached to the lead screw nut .<br>
