@@ -93,6 +93,7 @@ Let the radius of the wheel be r and θ is the angle of contact and h is the rop
 
 Robot is planned to serve the following tasks:
 </p>
+
 - It can be used to carry weights or to drop weights from some height.
 
 - When equipped with camera, the robot can be used for surveillence.
