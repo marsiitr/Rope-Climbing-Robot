@@ -47,8 +47,9 @@ Let the radius of the wheel be r and θ is the angle of contact and h is the rop
 > S = (2πrhθ)/360
 
 <h2>Electronic aspect</h2>
-- Electronic Components used
- <ol>
+<ul>
+<li>Electronic Components used</li>
+  <ol>
  <li>Arduino Uno</li>
  <li>dc motors</li>
  <li>Ultrasonic distance sensors</li>
@@ -57,19 +58,18 @@ Let the radius of the wheel be r and θ is the angle of contact and h is the rop
  <li>Battery</li>
  <li>Connecting wires and jumpers</li>
   </ol>
-- Total two dc motors were used. One to grab the rope with the help of an encoder and the second for climbing the rope.
-- Two ultrasonic distance sensors were used to measure the distance of the bot from the floor and the top end of the rope.
-- dc motors were powered through Li-Po 12V dc battery.
+<li>Total two dc motors were used. One to grab the rope with the help of an encoder and the second for climbing the rope.</li>
+<li>Two ultrasonic distance sensors were used to measure the distance of the bot from the floor and the top end of the rope.</li>
+<li>dc motors were powered through Li-Po 12V dc battery.</li>
 <img src="https://github.com/adityatidke/Rope-Climbing-Robot/blob/master/images%20and%20videos/images/Circuit.png">
 
 <h2>Workflow</h2>
---------------
 
-<img src="https://github.com/adityatidke/Rope-Climbing-Robot/blob/master/flowchart.jpg">
-</p>
 
-## **Cost structure**
---------
+<img src="https://github.com/adityatidke/Rope-Climbing-Robot/blob/master/Images%20and%20Videos/Images/flowchart.jpg">
+
+<h2>Cost structure</h2>
+-
 <!-- cost structure-->
 
 | materials|quantity|cost|
@@ -85,40 +85,45 @@ Let the radius of the wheel be r and θ is the angle of contact and h is the rop
 |*total*||4775|
 
 
-## **Applications**
+<h2>Applications</h2>
 
 Robot is planned to serve the following tasks:
+<ul>
+<li> It can be used to carry weights or to drop weights from some height.</li>
 
-- It can be used to carry weights or to drop weights from some height.
+<li>When equipped with camera, the robot can be used for surveillence.</li>
 
-- When equipped with camera, the robot can be used for surveillence.
+<li>When equipped with cleaners, it can be used to clean glasses of windows or walls.</li>
 
-- When equipped with cleaners, it can be used to clean glasses of windows or walls.
-
-- Robot can be used to take pictures or to make videos from different heights.
+<li>Robot can be used to take pictures or to make videos from different heights.</li>
+</ul>
 <!-- apllications-->
-## **Limitations**
-- The bot cannot climb horizontal ropes or ropes at some Angles.
+<h2>Limitations</h2>
+<ul>
+<li>The bot cannot climb horizontal ropes or ropes at some Angles.</li>
 
 
-- The bot cannot traverse rope having some obstacles like knots or bend.
-## **Future improvements**
+<li>The bot cannot traverse rope having some obstacles like knots or bend.</li>
+<h2>Future improvements</h2>
 1. The load carrying capacity can be improved by using stronger motors and parts.
 2. Image detection software can be incorporated with the help of a camera , so that it can detect a rope on its own and climb it.
 3. Modification in the design can be made so that it can measure its diameter of the rope without prefeding the data into the encoder.
 4. Pneaumatics can be introduced in the the model to improve the gripping and climbing speed.
-## **Team Member**
-- [Aditya Tidke](https://github.com/adityatidke)
-- [Anjali Rana](https://github.com/anu-cn)
-- [Parul Chaudhary](https://github.com/parul253)
-- [Tanisha gupta](https://github.com/guddu-gupta)
-- [Vansh Goyal](https://github.com/vanshgoyal)
-- [Vinu Sebastian](https://github.com/vinusebastian265)
-## **Mentor**
-- [Avdesh Ranwa](https://github.com/avdeshranwa)
-- Gautam Jha
-## **Refrences** ##
+<h2>Team Member</h2>
+<li> [Aditya Tidke](https://github.com/adityatidke)</li>
+<li>[Anjali Rana](https://github.com/anu-cn)</li>
+<li>[Parul Chaudhary](https://github.com/parul253)</li>
+<li>[Tanisha gupta](https://github.com/guddu-gupta)</li>
+<li>[Vansh Goyal](https://github.com/vanshgoyal)</li>
+<li>[Vinu Sebastian](https://github.com/vinusebastian265)</li>
+<h2>Mentor</h2>
+<ul>
+<li>[Avdesh Ranwa](https://github.com/avdeshranwa)</li>
+<li>Gautam Jha</li>
+ </ul>
+<h2>Refrences</h2>
 https://www.arrow.com/en/research-and-events/articles/ultrasonic-sensors-how-they-work-and-how-to-use-them-with-arduino <br>
 https://www.thomasnet.com/articles/machinery-tools-supplies/pneumatic-actuators/<br>
 https://www.instructables.com/circuits/arduino/projects/<br>
 https://grabcad.com/
+</p>
