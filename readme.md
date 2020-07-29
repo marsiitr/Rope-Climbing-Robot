@@ -87,12 +87,12 @@ Let the radius of the wheel be r and θ is the angle of contact and h is the rop
 |Materials for body|1|1230|
 |Manufacturing|1|600|
 |*total*||4775|
-
+</p>
 
 <h2>Applications</h2>
 <p align="justify">
 Robot is planned to serve the following tasks:
-</p>
+
 - It can be used to carry weights or to drop weights from some height.
 
 - When equipped with camera, the robot can be used for surveillence.
