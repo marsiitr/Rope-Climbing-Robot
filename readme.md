@@ -1,5 +1,7 @@
-# Rope-Climbing-Robot
+ <p align="justify">
+ <h1>Rope-Climbing-Robot</h1>
 Srishti 2020
+</p>
 
 
 <p align="justify">
@@ -28,7 +30,7 @@ This is a common and serves in both gripping mechanism and climbing mechanism . 
 The wheels are connected to the sheet with 3-D printed supports , bearings and shafts such that they are free to rotate about the shaft .
 </p>
 <p align="justify">
-<h2>Encoder motor assembly</h2>
+<h4>Encoder motor assembly</h4>
 <img src="https://github.com/adityatidke/Rope-Climbing-Robot/blob/master/Mechanical%20Design/assembly%20images/Motor%20Encoder%20Assembly.JPG">
 To grip the rope , sliding roller assembly has  to ascend on a lead screw , for that a spur gear is attached to the lead screw on the rear side . An encoder and motor are also attached sideways such that the lead screw attached to the spur gear simultaneously runs the spur gear attached to the encoder and the motor. <br>
 For the working of the assembly , when the motor rotates , the spur gear rotates the lead screw which in turn rotates the encoder shaft through the trail of gears . The information of number of the rotations which the motor has to perform is already calculated and fitted into the encoder . Thus we can grip the rope.
