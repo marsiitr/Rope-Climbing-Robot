@@ -51,7 +51,7 @@ Let the radius of the wheel be r and θ is the angle of contact and h is the rop
 
 <h2>Electronic aspect</h2>
 
--Electronic Components used
+- Electronic Components used
   
  1. Arduino Uno
  2. dc motors
@@ -88,33 +88,33 @@ Let the radius of the wheel be r and θ is the angle of contact and h is the rop
 |Manufacturing|1|600|
 |*total*||4775|
 
-<p align="justify">
+
 <h2>Applications</h2>
-
+<p align="justify">
 Robot is planned to serve the following tasks:
-<ul>
-<li> It can be used to carry weights or to drop weights from some height.</li>
+</p>
+- It can be used to carry weights or to drop weights from some height.
 
-<li>When equipped with camera, the robot can be used for surveillence.</li>
+- When equipped with camera, the robot can be used for surveillence.
 
-<li>When equipped with cleaners, it can be used to clean glasses of windows or walls.</li>
+- When equipped with cleaners, it can be used to clean glasses of windows or walls.
 
-<li>Robot can be used to take pictures or to make videos from different heights.</li>
-</ul>
+- Robot can be used to take pictures or to make videos from different heights.
+
 <!-- apllications-->
 <h2>Limitations</h2>
-<ul>
-<li>The bot cannot climb horizontal ropes or ropes at some Angles.</li>
+
+- The bot cannot climb horizontal ropes or ropes at some Angles.
 
 
-<li>The bot cannot traverse rope having some obstacles like knots or bend.</li>
+- The bot cannot traverse rope having some obstacles like knots or bend.
 <h2>Future improvements</h2>
-<ul>
-<li>The load carrying capacity can be improved by using stronger motors and parts.</li>
-<li>Image detection software can be incorporated with the help of a camera , so that it can detect a rope on its own and climb it.</li>
-<li>Modification in the design can be made so that it can measure its diameter of the rope without prefeding the data into the encoder.</li>
-<li>Pneaumatics can be introduced in the the model to improve the gripping and climbing speed.</li>
-</ul>
+
+- The load carrying capacity can be improved by using stronger motors and parts.
+- Image detection software can be incorporated with the help of a camera , so that it can detect a rope on its own and climb it.
+- Modification in the design can be made so that it can measure its diameter of the rope without prefeding the data into the encoder.
+- Pneaumatics can be introduced in the the model to improve the gripping and climbing speed.
+<p align="justify">
 <h2>Team Member</h2>
 <li> <a href="https://github.com/adityatidke">Aditya Tidke</a></li>
 <li><a href="https://github.com/anu-cn">Anjali Rana</a></li>
