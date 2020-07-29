@@ -46,7 +46,7 @@ The design consists of a DC motor which is connected to three spur gear asssembl
 The wheels rolls on the surface of the rope which is powered by a DC motor (motor should provide high torque and power). In presence of sufficient friction between the wheels and the rope , the robot traverses the rope . The wheel should offer sufficient friction to support the robot in the vertical position . <br>
 The other way to arrange the wheels is in a zig-zag pattern which increases the area of contact which in turn increases the friction.<br>
 Let the radius of the wheel be r and θ is the angle of contact and h is the rope thickness. The surface area S in contact with the wheel is given as <br>
- S = (2πrhθ)/360
+ <blockquote>S = (2πrhθ)/360</blockquote>
  </p>
 
 <h2>Electronic aspect</h2>
