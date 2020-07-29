@@ -112,29 +112,36 @@ Robot is planned to serve the following tasks:
 <p align="justify">
 <h2>Future improvements</h2>
 </P>
+
 - The load carrying capacity can be improved by using stronger motors and parts.
 - Image detection software can be incorporated with the help of a camera , so that it can detect a rope on its own and climb it.
 - Modification in the design can be made so that it can measure its diameter of the rope without prefeding the data into the encoder.
 - Pneaumatics can be introduced in the the model to improve the gripping and climbing speed.
+
 <p align="justify">
 <h2>Team Member</h2>
 </P>
+
 - <a href="https://github.com/adityatidke">Aditya Tidke</a>
 - <a href="https://github.com/anu-cn">Anjali Rana</a>
 - <a href="https://github.com/parul253">Parul Chaudhary</a>
 - <a href="https://github.com/guddu-gupta">Tanisha Gupta</a>
 - <a href="https://github.com/vanshgoyal">Vansh Goyal</a>
 - <a href="https://github.com/vinusebastian265">Vinu Sebastian</a>
-<p align="justify">
+
+p align="justify">
 <h2>Mentor</h2>
 </P>
+
 - <a href="https://github.com/avdeshranwa">Avdesh Ranwa</a>
 - Gautam Jha
+
 <p align="justify">
 <h2>Refrences</h2>
-</P>
+
 https://www.arrow.com/en/research-and-events/articles/ultrasonic-sensors-how-they-work-and-how-to-use-them-with-arduino <br>
 https://www.thomasnet.com/articles/machinery-tools-supplies/pneumatic-actuators/<br>
 https://www.instructables.com/circuits/arduino/projects/<br>
 https://grabcad.com/
 
+</P>
