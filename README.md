@@ -22,7 +22,7 @@ In rope climbing robot two aspects are especially important grip on the rope and
 These two characteristics are important to carry a weight with a robot and easily maintain a overall stability of the robot . The design presented here for rope climmbing is a wheel based system since they are highly and easy to build.
 </p>
 <p align="justify">
-<h2>Sliding roller</h2>
+<h4>Sliding roller</h4>
 <img src="https://github.com/adityatidke/Rope-Climbing-Robot/blob/master/mechanical%20design/assembly%20images/SLIDING%20ROLLER%20ASSEMBLY.JPG"><br>
 This is a common and serves in both gripping mechanism and climbing mechanism . The assembly consists of two wheels attached to a rectangular metal sheet which is attached to the lead screw nut .<br>
 The wheels are connected to the sheet with 3-D printed supports , bearings and shafts such that they are free to rotate about the shaft .
@@ -32,13 +32,13 @@ The wheels are connected to the sheet with 3-D printed supports , bearings and s
 <img src="https://github.com/adityatidke/Rope-Climbing-Robot/blob/master/mechanical%20design/assembly%20images/Motor%20Encoder%20Assembly.JPG">
 To grip the rope , sliding roller assembly has  to ascend on a lead screw , for that a spur gear is attached to the lead screw on the rear side . An encoder and motor are also attached sideways such that the lead screw attached to the spur gear simultaneously runs the spur gear attached to the encoder and the motor. <br>
 For the working of the assembly , when the motor rotates , the spur gear rotates the lead screw which in turn rotates the encoder shaft through the trail of gears . The information of number of the rotations which the motor has to perform is already calculated and fitted into the encoder . Thus we can grip the rope.
-<h2>Slider assembly</h2> 
+<h4>Slider assembly</h4> 
 <img src="https://github.com/adityatidke/Rope-Climbing-Robot/blob/master/mechanical%20design/assembly%20images/Slider%20Assembly.JPG">
 To prevent the sliding roller assembly to deviate from its path in a rotatory motion it is supported with a slider assembly. The slider is created with a shaft and a rectangular box which can slide on it . It is connected to "SRE" by a L hinge. <br>
 The slider also creates a second support for the lead screw . Otherwise the lead screw will deviate from its position.
-</p>
-##### Motor wheel assembly #####
-![gear](https://github.com/adityatidke/Rope-Climbing-Robot/blob/master/images%20and%20videos/images/Motor%20Gear%20Assembly.JPG)<br>
+
+<h4>Motor wheel assembly</h4>
+<img src="https://github.com/adityatidke/Rope-Climbing-Robot/blob/master/mechanical%20design/assembly%20images/Motor%20Gear%20Assembly.JPG">
 After gripping the rope firmly, the bot has to climb the rope . The basic principal used along the rope is rolling. <br>
 The design consists of a DC motor which is connected to three spur gear asssembly . The end gears are connected to each wheel . The design consists of two wheel pairs on either side of the rope. <br>
 The wheels rolls on the surface of the rope which is powered by a DC motor (motor should provide high torque and power). In presence of sufficient friction between the wheels and the rope , the robot traverses the rope . The wheel should offer sufficient friction to support the robot in the vertical position . <br>
@@ -46,7 +46,7 @@ The other way to arrange the wheels is in a zig-zag pattern which increases the 
 Let the radius of the wheel be r and θ is the angle of contact and h is the rope thickness. The surface area S in contact with the wheel is given as <br>
 > S = (2πrhθ)/360
 
-## **Electronic aspect**
+<h2>Electronic aspect</h2>
 - Electronic Components used
  1. Arduino Uno
  2. dc motors
@@ -59,12 +59,13 @@ Let the radius of the wheel be r and θ is the angle of contact and h is the rop
 - Total two dc motors were used. One to grab the rope with the help of an encoder and the second for climbing the rope.
 - Two ultrasonic distance sensors were used to measure the distance of the bot from the floor and the top end of the rope.
 - dc motors were powered through Li-Po 12V dc battery.
-![circuit](https://github.com/adityatidke/Rope-Climbing-Robot/blob/master/images%20and%20videos/images/Circuit.png)
+<img src="https://github.com/adityatidke/Rope-Climbing-Robot/blob/master/images%20and%20videos/images/Circuit.png">
 
-## **Workflow** ##
+<h2>Workflow</h2>
 --------------
 
-![flowchart](https://github.com/adityatidke/Rope-Climbing-Robot/blob/master/flowchart.jpg)
+<img src="https://github.com/adityatidke/Rope-Climbing-Robot/blob/master/flowchart.jpg">
+</p>
 
 ## **Cost structure**
 --------
