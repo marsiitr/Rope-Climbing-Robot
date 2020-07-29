@@ -51,6 +51,7 @@ Let the radius of the wheel be r and θ is the angle of contact and h is the rop
 
 <h2>Electronic aspect</h2>
  </p>
+ 
 - Electronic Components used
   
  1. Arduino Uno
