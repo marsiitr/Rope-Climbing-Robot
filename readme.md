@@ -114,7 +114,7 @@ Robot is planned to serve the following tasks:
 - Image detection software can be incorporated with the help of a camera , so that it can detect a rope on its own and climb it.
 - Modification in the design can be made so that it can measure its diameter of the rope without prefeding the data into the encoder.
 - Pneaumatics can be introduced in the the model to improve the gripping and climbing speed.
-<p align="justify">
+
 <h2>Team Member</h2>
 <li> <a href="https://github.com/adityatidke">Aditya Tidke</a></li>
 <li><a href="https://github.com/anu-cn">Anjali Rana</a></li>
@@ -132,4 +132,4 @@ https://www.arrow.com/en/research-and-events/articles/ultrasonic-sensors-how-the
 https://www.thomasnet.com/articles/machinery-tools-supplies/pneumatic-actuators/<br>
 https://www.instructables.com/circuits/arduino/projects/<br>
 https://grabcad.com/
-</p>
+
