@@ -10,10 +10,11 @@ This Rope climbing bot is used to climb ropes in an easy and efficient manner to
 <img src="https://github.com/adityatidke/Rope-Climbing-Robot/blob/master/mechanical%20design/assembly%20images/Bot%20image.JPG">
 <!-- abstract-->
 </p>
+<p align="justify">
 <h2>Motivation</h2>
 People from various fields like mining , military , or other often come across situations where they can not get direct access to certain area say inside a cave in a mine .
 There was a need of rope climbing robot which uses a single rope and can reach easily to any desired place in any terrain and most of the robots we come across uses double rope and are difficult to use. Also many day to day households work can be done easily with a rope climbing robot and thus we need a robot which can used in daily lives .     
-
+</p>
 <!-- motivation-->
 <p align="justify">
 <h2>Mechanical aspect</h2>
