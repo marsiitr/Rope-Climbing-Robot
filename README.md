@@ -61,7 +61,7 @@ Let the radius of the wheel be r and θ is the angle of contact and h is the rop
 <li>Total two dc motors were used. One to grab the rope with the help of an encoder and the second for climbing the rope.</li>
 <li>Two ultrasonic distance sensors were used to measure the distance of the bot from the floor and the top end of the rope.</li>
 <li>dc motors were powered through Li-Po 12V dc battery.</li>
-<img src="https://github.com/adityatidke/Rope-Climbing-Robot/blob/master/images%20and%20videos/images/Circuit.png">
+<img src="https://github.com/adityatidke/Rope-Climbing-Robot/blob/master/Images%20and%20Videos/Images/Circuit.png">
 
 <h2>Workflow</h2>
 
@@ -105,10 +105,12 @@ Robot is planned to serve the following tasks:
 
 <li>The bot cannot traverse rope having some obstacles like knots or bend.</li>
 <h2>Future improvements</h2>
-1. The load carrying capacity can be improved by using stronger motors and parts.
-2. Image detection software can be incorporated with the help of a camera , so that it can detect a rope on its own and climb it.
-3. Modification in the design can be made so that it can measure its diameter of the rope without prefeding the data into the encoder.
-4. Pneaumatics can be introduced in the the model to improve the gripping and climbing speed.
+<ul>
+<li>The load carrying capacity can be improved by using stronger motors and parts.</li>
+<li>Image detection software can be incorporated with the help of a camera , so that it can detect a rope on its own and climb it.</li>
+<li>Modification in the design can be made so that it can measure its diameter of the rope without prefeding the data into the encoder.</li>
+<li>Pneaumatics can be introduced in the the model to improve the gripping and climbing speed.</li>
+</ul>
 <h2>Team Member</h2>
 <li> <a href="https://github.com/adityatidke">Aditya Tidke</a></li>
 <li><a href="https://github.com/anu-cn">Anjali Rana</a></li>
