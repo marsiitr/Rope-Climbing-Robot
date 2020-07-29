@@ -129,7 +129,7 @@ Robot is planned to serve the following tasks:
 - <a href="https://github.com/vanshgoyal">Vansh Goyal</a>
 - <a href="https://github.com/vinusebastian265">Vinu Sebastian</a>
 
-p align="justify">
+<p align="justify">
 <h2>Mentor</h2>
 </P>
 
