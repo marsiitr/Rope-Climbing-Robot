@@ -3,11 +3,11 @@ Srishti 2020
 
 
 <p align="justify">
-## **Abstract**
+## **Abstract** ##
 This Rope climbing bot is used to climb ropes in an easy and efficient manner to reduce manual labour.Motorised rollers are used for climbing and a leadscrew is used for the gripping.
 </p>
 <p align="centre">
-![model](https://github.com/adityatidke/Rope-Climbing-Robot/blob/master/images%20and%20videos/images/Bot%20image.JPG)
+![model](https://github.com/adityatidke/Rope-Climbing-Robot/blob/master/mechanical%20design/assembly%20images/Bot%20image.JPG)
 <!-- abstract-->
 </p>
 ## **Motivation**
